@@ -1,7 +1,6 @@
-# NoahEvans.me
-## The repo for my secondary domain
+# ThisIsNoahEvans.github.io
+## GitHub Pages home page
 
-## About
-This repo contains the code for my seconday domain, [noahevans.me](https://noahevans.me). I don't currently plan to use it for much, but this may change in the future.
+#### I'll be using this domain for something in the future. Stay tuned!
 
 ### View my main website [here.](https://www.itsnoahevans.co.uk)
